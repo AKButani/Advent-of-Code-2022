@@ -1,5 +1,3 @@
-
-
 f = open('Day 6\\input6.txt')
 counter = 0
 arr = []
